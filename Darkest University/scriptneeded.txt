@@ -1,0 +1,5 @@
+1. trigger sesuatu sound,gerakan,animation
+2. script validasi jika sudah memiliki key yang cukup
+3. script save data 
+4. script game over
+5. script di kejar"
